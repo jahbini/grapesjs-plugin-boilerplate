@@ -1,9 +1,9 @@
-# GrapesJS Plugin Boilerplate
+# GrapesJS Plugin RiotJS
 
 
-<span><a href="https://david-dm.org/artf/grapesjs-plugin-boilerplate#info=devDependencies" title="View the status of this project's development dependencies on DavidDM"><img src="https://img.shields.io/david/dev/artf/grapesjs-plugin-boilerplate.svg" alt="Dev Dependency Status" /></a></span>
+<span>Derived from <a href="https://david-dm.org/artf/grapesjs-plugin-boilerplate#info=devDependencies" title="View the status of this project's development dependencies on DavidDM"><img src="https://img.shields.io/david/dev/artf/grapesjs-plugin-boilerplate.svg" alt="Dev Dependency Status" /></a></span>
 
-This boilerplate helps you quickly start a production ready plugin for GrapesJS. If you don't know from where to start, check this guide [Creating plugins](https://github.com/artf/grapesjs/wiki/Creating-plugins). Sections below are also used as boilerplate for your README, follow steps
+This Plugin is to import riotJS components into the grape Web building system.  Possible.
 
 ### Usage
 1. Clone this repository `git clone https://github.com/artf/grapesjs-plugin-boilerplate.git`
